@@ -1,3 +1,4 @@
 hello 这又是另一个git测试文件
 我们在使用git status命令来查看仓库中各个文件的状态
 smartgit 测试
+smartgit
